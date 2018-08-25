@@ -1,0 +1,54 @@
+#font{
+
+    font-family: Segoe UI;
+    font size: 25px;
+
+}
+.answer{
+	text-transform: none;
+}
+.question{
+	font-weight: bold;
+}
+article{
+	position: relative;
+	padding: 5px 0px 0px 5px;
+	display: block;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin-left:22px ;
+	margin-right: 922px;
+}
+form {
+	margin: 5px 32px 12px 12px;
+}
+.heading{
+	color: black;
+	padding: 0px 0px 0px 70px;
+	margin: 0px;
+	margin-bottom: 8px;
+	display: block;
+	border-bottom: 3px solid black;
+	font-weight: 430;
+	font-size: 55px;
+	background-color: white;
+	display: block;
+
+}
+.next {
+	background-color: #e7e7e7; /* Green */
+    border: none;
+    color: black;
+    padding: 10px 22px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    margin: 4px 2px 0px 15px;
+    cursor: pointer;
+	box-shadow: 2px 2px lightgray;
+}
+
+.next:hover {
+	box-shadow: 5px 5px lightgray;
+}
+crt f5

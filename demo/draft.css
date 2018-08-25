@@ -1,0 +1,27 @@
+
+	#textinput{
+        text-align: center;
+        color:black;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 1em;
+	}
+	.fill{
+        text-align: center;
+        color: rgb(203, 54, 54);
+        font-family: sans-serif;
+		padding: 1em;
+	}
+	.error{
+		text-align: center;
+		color:rgb(203, 71, 54);
+		font-family: 'Times New Roman', Times, serif;
+		padding: 1em; 
+    }
+    .message{
+        text-align: center;
+        color:rgb(54, 193, 203);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    body{
+        background: url("bk.jpg;")
+    }
